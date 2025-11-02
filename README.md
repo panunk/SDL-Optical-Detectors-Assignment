@@ -1,5 +1,6 @@
 # SDL-Optical-Detectors-Assignment
 Space Detector Lab Optical Detectors Assignment
+
 Assignment: Create a python script that can take multiple HST images and chart their stars on an H-R Diagram. 
 
 WARNING:
